@@ -1,0 +1,24 @@
+# ============================================================
+# Project: Web Scraping and Analysis of Job Postings
+# Description: Required Python packages for scraping, cleaning,
+#              analyzing, and visualizing job posting data.
+# Author: Andrew Wageh Fahmy
+# ============================================================
+
+# Web scraping
+selenium==4.12.0
+requests==2.31.0
+
+# Data analysis
+pandas==2.1.0
+numpy==1.25.2
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Utilities
+tqdm==4.66.1 --> shows a live progress bar so can monitor how far along the script is.
+
+# Development / Notebooks
+jupyter==1.0.0
