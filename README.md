@@ -77,4 +77,4 @@ ________________
 
 **✔ Equipping businesses with knowledge of in-demand skills across regions**
 
-*In short:* ***from raw data → to career strategy.***
+***In short:*** *from raw data → to career strategy*
